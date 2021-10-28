@@ -8,7 +8,7 @@ function App() {
 
         <div className="card flex flex-col justify-center p-6 xl:p-16 rounded-tl-none lg:rounded-tl-2xl rounded-bl-2xl rounded-br-2xl lg:rounded-br-none text-center lg:text-left order-2 lg:order-1 pt-0 xl:pt-auto 
         md:h-50 lg:h-50 xl:h-auto">
-          <h1 className="text-3xl xl:text-5xl font-bold mt-16 xl:mt-0">Get <span className="insights">insights</span> that help your business grow.</h1>
+          <h1 className="text-3xl xl:text-5xl font-bold mt-16 xl:mt-0">Get <span className="insights">DANGER BOSS</span> thatOHHHHHH.</h1>
 
           <p className="text-md mt-8 mb-12 xl:mb-20 xl:w-3/4">Discover the business of data analytics and make better decisions regarding revenue, customer experience, and overall efficiency.</p>
 

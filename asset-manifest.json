@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/PiltonSwrang/stats-preview-card/static/css/main.ff92ca49.chunk.css",
-    "main.js": "/PiltonSwrang/stats-preview-card/static/js/main.2f8fab48.chunk.js",
-    "main.js.map": "/PiltonSwrang/stats-preview-card/static/js/main.2f8fab48.chunk.js.map",
-    "runtime-main.js": "/PiltonSwrang/stats-preview-card/static/js/runtime-main.d45de4f1.js",
-    "runtime-main.js.map": "/PiltonSwrang/stats-preview-card/static/js/runtime-main.d45de4f1.js.map",
-    "static/js/2.58914730.chunk.js": "/PiltonSwrang/stats-preview-card/static/js/2.58914730.chunk.js",
-    "static/js/2.58914730.chunk.js.map": "/PiltonSwrang/stats-preview-card/static/js/2.58914730.chunk.js.map",
-    "index.html": "/PiltonSwrang/stats-preview-card/index.html",
-    "static/css/main.ff92ca49.chunk.css.map": "/PiltonSwrang/stats-preview-card/static/css/main.ff92ca49.chunk.css.map",
-    "static/js/2.58914730.chunk.js.LICENSE.txt": "/PiltonSwrang/stats-preview-card/static/js/2.58914730.chunk.js.LICENSE.txt",
-    "static/media/desktop.72d6e2a0.jpg": "/PiltonSwrang/stats-preview-card/static/media/desktop.72d6e2a0.jpg"
+    "main.css": "/Stats-Preview-Card/static/css/main.ff92ca49.chunk.css",
+    "main.js": "/Stats-Preview-Card/static/js/main.2f8fab48.chunk.js",
+    "main.js.map": "/Stats-Preview-Card/static/js/main.2f8fab48.chunk.js.map",
+    "runtime-main.js": "/Stats-Preview-Card/static/js/runtime-main.a1212b76.js",
+    "runtime-main.js.map": "/Stats-Preview-Card/static/js/runtime-main.a1212b76.js.map",
+    "static/js/2.58914730.chunk.js": "/Stats-Preview-Card/static/js/2.58914730.chunk.js",
+    "static/js/2.58914730.chunk.js.map": "/Stats-Preview-Card/static/js/2.58914730.chunk.js.map",
+    "index.html": "/Stats-Preview-Card/index.html",
+    "static/css/main.ff92ca49.chunk.css.map": "/Stats-Preview-Card/static/css/main.ff92ca49.chunk.css.map",
+    "static/js/2.58914730.chunk.js.LICENSE.txt": "/Stats-Preview-Card/static/js/2.58914730.chunk.js.LICENSE.txt",
+    "static/media/desktop.72d6e2a0.jpg": "/Stats-Preview-Card/static/media/desktop.72d6e2a0.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d45de4f1.js",
+    "static/js/runtime-main.a1212b76.js",
     "static/js/2.58914730.chunk.js",
     "static/css/main.ff92ca49.chunk.css",
     "static/js/main.2f8fab48.chunk.js"

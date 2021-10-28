@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&family=Zen+Kaku+Gothic+Antique&display=swap');
+
+body {
+    font-family: 'Zen Kaku Gothic Antique',
+    sans-serif;
+}

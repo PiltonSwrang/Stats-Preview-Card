@@ -27,7 +27,7 @@ function App() {
               <h1 className="text-xl xl:text-3xl font-bold">12M+</h1>
               <p className="uppercase text-xs xl:text-sm mt-1 tracking-widest">queries</p>
             </div>
-            
+
           </div>
         </div>
 

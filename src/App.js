@@ -4,6 +4,7 @@ import './stats.css';
 function App() {
   return (
     <main>
+      <h1 className="hidden">This is a simple solution of a challenge from Frontend mentor<a href="https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62">Link to problem</a> </h1>
       <div className="grid grid-cols-1 lg:grid-cols-2 text-white px-8 md:px-32 py-14 xl:py-32">
 
         <div className="card flex flex-col justify-center p-6 xl:p-16 rounded-tl-none lg:rounded-tl-2xl rounded-bl-2xl rounded-br-2xl lg:rounded-br-none text-center lg:text-left order-2 lg:order-1 pt-0 xl:pt-auto 

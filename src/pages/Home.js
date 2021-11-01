@@ -17,35 +17,6 @@ export default function Home() {
                 To build sustainable generational wealth for our investors by navigating the Distributed Ledger Technology driven cryptocurrency and digital assets space with an approach operating at the intersection of cryptography, game theory, network and behavioral economics, competitive strategy, computer science, investing and portfolio management and become India’s largest digital currency asset manager.
             </p>
 
-            {/* FEATURES  */}
-            <div className="grid grid-cols-1 lg:grid-cols-3 gap-4 gap-y-8 my-6">
-                <div className="px-6 py-10 border-2 border-gray-50 rounded-xl">
-                    <div className="">
-                        <img className="h-20 mx-auto" src="https://conceptdraw.com/a155c4/p125/preview/640/pict--network-cloud-round-icons-vector-stencils-library" alt="" />
-                    </div>
-                    <h1 className="text-2xl mb-4 font-bold lg:w-3/4 mx-auto">We're making remote work permanent</h1>
-                    <p className="text-lg"> Wow any audience with your Canva presentation. Design, plan, and present all in one place.</p>
-                </div>
-
-                <div className="px-6 py-10 border-2 border-gray-50 rounded-xl">
-                    <div className="">
-                        <img className="h-20 mx-auto" src="https://conceptdraw.com/a155c4/p125/preview/640/pict--network-cloud-round-icons-vector-stencils-library" alt="" />
-                    </div>
-                    <h1 className="text-2xl mb-4 font-bold lg:w-3/4 mx-auto">We appointed Neil Tran as Chief Financial Officer</h1>
-                    <p className="text-lg"> Wow any audience with your Canva presentation. Design, plan, and present all in one place.</p>
-                </div>
-
-                <div className="px-6 py-10 border-2 border-gray-50 rounded-xl">
-                    <div className="">
-                        <img className="h-20 mx-auto" src="https://conceptdraw.com/a155c4/p125/preview/640/pict--network-cloud-round-icons-vector-stencils-library" alt="" />
-                    </div>
-                    <h1 className="text-2xl mb-4 font-bold lg:w-3/4 mx-auto">We acquired Harper and Partners, Inc.
-                    </h1>
-                    <p className="text-lg"> Wow any audience with your Canva presentation. Design, plan, and present all in one place.</p>
-                </div>
-            </div>
-
-
         </main>
     )
 }

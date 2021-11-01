@@ -13,9 +13,6 @@ const firebaseConfig = {
     measurementId: process.env.REACT_APP_MEASUREMENT_ID
 };
 
-console.log(process.env.REACT_APP_FIREBASE_API_KEY)
-console.log('this is a test')
-
 firebase.initializeApp(firebaseConfig)
 
 export const firestore = firebase.firestore()

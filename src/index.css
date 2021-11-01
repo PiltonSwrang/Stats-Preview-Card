@@ -7,4 +7,5 @@
 body {
     font-family: 'Zen Kaku Gothic Antique',
     sans-serif;
+    overflow-x: hidden;
 }
